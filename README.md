@@ -5,6 +5,7 @@
 Go to git directory and run command below
 
 ```
+docker-compose build
 docker-compose up -d
 ```
 
